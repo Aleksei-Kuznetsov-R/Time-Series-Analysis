@@ -3,10 +3,10 @@
 _Time Series Analysis_ is a set of methods and techniques used to analyze data collected in consecutive time intervals. The purpose of time series analysis is to identify patterns and trends over time, predict future values, and understand the structure of data. 
 
 The main aspects of time series analysis:
-**Trend:** the long-term direction of change in the data (increase or decrease).
-**Seasonality:** regular fluctuations that recur at regular intervals (e.g. monthly or annual fluctuations).
-**Cyclicality:** fluctuations due to economic or other factors that occur over longer time intervals.
-**Noise:** random and unpredictable fluctuations that cannot be explained.
+* **Trend:** the long-term direction of change in the data (increase or decrease).
+* **Seasonality:** regular fluctuations that recur at regular intervals (e.g. monthly or annual fluctuations).
+* **Cyclicality:** fluctuations due to economic or other factors that occur over longer time intervals.
+* **Noise:** random and unpredictable fluctuations that cannot be explained.
 
 Methods of analysis:
 **Decomposition:** dividing a time series into trend, seasonality, and noise for deeper analysis.
