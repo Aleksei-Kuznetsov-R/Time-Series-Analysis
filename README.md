@@ -9,12 +9,12 @@ The main aspects of time series analysis:
 * **Noise:** random and unpredictable fluctuations that cannot be explained.
 
 Methods of analysis:
-**Decomposition:** dividing a time series into trend, seasonality, and noise for deeper analysis.
-**Moving Average:** Smoothing data to identify major trends.
-**Autocorrelation:** analyze the relationship between current time series values and past values.
+* **Decomposition:** dividing a time series into trend, seasonality, and noise for deeper analysis.
+* **Moving Average:** Smoothing data to identify major trends.
+* **Autocorrelation:** analyze the relationship between current time series values and past values.
 
 Forecasting models:
 
-**ARIMA (AutoRegressive Integrated Moving Average):** one of the most popular models for time series forecasting, including autoregression, integration and moving average.
-**SARIMA (Seasonal ARIMA):** an extension of the ARIMA model that takes into account seasonal components.
-**Exponential Smoothing:** A method that uses exponential functions to smooth and predict data.
+* **ARIMA (AutoRegressive Integrated Moving Average):** one of the most popular models for time series forecasting, including autoregression, integration and moving average.
+* **SARIMA (Seasonal ARIMA):** an extension of the ARIMA model that takes into account seasonal components.
+* **Exponential Smoothing:** A method that uses exponential functions to smooth and predict data.
